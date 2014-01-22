@@ -1,6 +1,6 @@
 # fluent-plugin-gc [![Build Status](https://secure.travis-ci.org/sonots/fluent-plugin-gc.png?branch=master)](http://travis-ci.org/sonots/fluent-plugin-gc)
 
-Fluentd plugin to disable GC and start GC at arbitrary interval
+Fluentd plugin to disable GC and start GC at arbitrary interval. This plugin is for testing only. 
 
 ## Configuration
 
