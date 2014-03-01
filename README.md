@@ -10,7 +10,7 @@ Example:
       type gc
       interval 5
       disable yes
-    </match>
+    </source>
 
 ## Parameters
 
