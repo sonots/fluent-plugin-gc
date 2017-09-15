@@ -1,4 +1,5 @@
-# encoding: UTF-8
+require 'fluent/input'
+
 class Fluent::GcInput < Fluent::Input
   Fluent::Plugin.register_input('gc', self)
 
