@@ -20,7 +20,7 @@ Example:
 
 - diable
 
-    Disable GC. Default is `no`.
+    Disable GC immediately after starting GC. Default is `no`.
 
 - debug
 
